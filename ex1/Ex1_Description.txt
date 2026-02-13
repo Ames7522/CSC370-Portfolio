@@ -1,0 +1,8 @@
+For Exercise 1, I wanted to fully set up my VSCode environment and start to play around with the images imported.
+
+To simplify the playground for others, I wanted to make a walkthrough of surface level applications of intro computer vision and image processing methods.
+
+I used one of my art pieces as the reference photo for the walkthrough since it was made with red-green color blind people in mind. The colors used are a bit more accessible to play with as the rough edges make it easier to disern what the computer is good at picking up on while also having smaller details that get lost depending on the approach used. This is intended to help make certain flaws pop out more for an intro student.
+
+Moreover, I plan to shift this basic code and make it a jupyter file to add clearer instructions and have additional guiding questions.
+
